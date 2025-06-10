@@ -1,0 +1,45 @@
+{
+  "name": "locka",
+  "version": "1.0.0",
+  "description": "Simple, elegant encryption ttoolkit. AES, XOR, password generation & CLI—zero dependencies.",
+  "main": "src/index.js",
+  "type": "module",
+  "bin": {
+    "locka": "bin/locka.js"
+  },
+  "scripts": {
+    "test": "node test/selftest.js"
+  },
+  "types": "types/locka.d.ts",
+  "keywords": [
+    "encryption",
+    "aes",
+    "crypto",
+    "xor",
+    "password",
+    "token",
+    "hash",
+    "secure",
+    "cli",
+    "file-encryption",
+    "command-line",
+    "javascript",
+    "locka"
+  ],
+  "author": {
+    "name": "Oscar Anton",
+    "email": "antonbatistao@gmail.com"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ghostcar5153/locka"
+  },
+  "bugs": {
+    "url": "https://github.com/Ghostcar5153/locka/issues"
+  },
+  "homepage": "https://github.com/Ghostcar5153/locka#readme"
+}
