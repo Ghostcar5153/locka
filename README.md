@@ -1,5 +1,7 @@
 # 🔐 Locka
 
+[![npm version](https://img.shields.io/npm/v/locka.svg)](https://www.npmjs.com/package/locka)
+
 **Locka** is a sleek encryption toolkit and CLI for managing secrets, encrypting files, and generating secure passwords and tokens — with zero dependencies and maximum vibes.
 
 Where the hell have you been loca 🐺.
